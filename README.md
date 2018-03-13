@@ -1,2 +1,2 @@
 # Vanilla-GAN
-The above implementation is of vanilla GAN on MNIST dataset
+The above mentioned python code is tensorflow implementation is of vanilla GAN on MNIST dataset
